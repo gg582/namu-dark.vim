@@ -1,0 +1,117 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Namu Dark - Korean Night Ink",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1e1c1a",
+    "editor.foreground": "#e3ded7",
+    "editorLineNumber.foreground": "#6d665f",
+    "editorLineNumber.activeForeground": "#b6ada3",
+    "editor.selectionBackground": "#3e3a35",
+    "editor.inactiveSelectionBackground": "#2f2b27",
+    "editorCursor.foreground": "#d0c49e",
+    "editorWhitespace.foreground": "#3a3733",
+    "editorIndentGuide.background": "#2b2825",
+    "editorIndentGuide.activeBackground": "#4e4944",
+    "sideBar.background": "#24211f",
+    "sideBar.foreground": "#d5cfc6",
+    "activityBar.background": "#2c2825",
+    "activityBar.foreground": "#e0dad1",
+    "statusBar.background": "#2f2b27",
+    "statusBar.foreground": "#d7d0c6",
+    "titleBar.activeBackground": "#2a2724",
+    "titleBar.activeForeground": "#ddd6cc"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment"
+      ],
+      "settings": {
+        "foreground": "#847e77",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "string"
+      ],
+      "settings": {
+        "foreground": "#4e74ad"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type"
+      ],
+      "settings": {
+        "foreground": "#1a9b80",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "parameter"
+      ],
+      "settings": {
+        "foreground": "#7e77c3"
+      }
+    },
+    {
+      "scope": [
+        "constant",
+        "number"
+      ],
+      "settings": {
+        "foreground": "#c99252"
+      }
+    },
+    {
+      "scope": [
+        "function",
+        "method"
+      ],
+      "settings": {
+        "foreground": "#6db09d"
+      }
+    },
+    {
+      "scope": [
+        "type",
+        "class",
+        "interface"
+      ],
+      "settings": {
+        "foreground": "#ae6890"
+      }
+    },
+    {
+      "scope": [
+        "punctuation",
+        "operator"
+      ],
+      "settings": {
+        "foreground": "#9d938b"
+      }
+    },
+    {
+      "scope": [
+        "string.regexp"
+      ],
+      "settings": {
+        "foreground": "#d98a5e"
+      }
+    },
+    {
+      "scope": [
+        "variable.language",
+        "keyword.control"
+      ],
+      "settings": {
+        "foreground": "#d75a5a"
+      }
+    }
+  ]
+}
