@@ -38,8 +38,8 @@ colorscheme namu-dark
 - Functions: gentle teal
 
 ## Screenshots
-[Preview](./preview.png)
-[Code Example](./code_example.png)
+![Preview](./preview.png)
+![Code Example](./code_example.png)
 
 ## License
 
