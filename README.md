@@ -12,7 +12,7 @@ Clean lines, warm paperless neutrals, and pigment-like accents.
 Add this to your `.vimrc`:
 
 ```vim
-Plugin 'YOUR_GITHUB_USER/namu-dark.vim'
+Plugin 'gg582/namu-dark.vim'
 ```
 
 Then in Vim:
