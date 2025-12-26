@@ -38,9 +38,8 @@ colorscheme namu-dark
 - Functions: gentle teal
 
 ## Screenshots
-
-- `preview.png` shows the palette
-- `code_example.png` shows edge cases in C
+[Preview](./preview.png)
+[Code Example](./code_example.png)
 
 ## License
 
