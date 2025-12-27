@@ -40,7 +40,3 @@ colorscheme namu-dark
 ## Screenshots
 ![Preview](./preview.png)
 ![Code Example](./code_example.png)
-
-## License
-
-Add your preferred license file.
